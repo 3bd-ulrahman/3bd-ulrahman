@@ -1,0 +1,213 @@
+{
+  "NavBar": {
+    "about": true,
+    "projects": true,
+    "skills": true,
+    "experience": true,
+    "contact": true
+  },
+  "About": {
+    "name": {
+      "content": "Abdulrahman Saad",
+      "gradient": "linear-gradient(90deg, #2A7B9B, #57C785)"
+    },
+    "imgUrl": "/src/assets/photo_2025-04-27_17-17-20.jpg",
+    "availability": true,
+    "tags": [
+      "Software Engineer",
+      "Backend Developer",
+      "PHP Laravel Developer"
+    ],
+    "resumeButton": {
+      "resumeLink": "https://drive.google.com/file/d/1VeDQ6oTdWYfSiEk0QD01NPNGWobBe_DG/view",
+      "resumeGradient": "linear-gradient(90deg, #2A7B9B, #57C785)",
+      "resumeOriginalGradient": "linear-gradient(90deg, #2A7B9B, #57C785)",
+      "resumeColor1": "#2A7B9B",
+      "resumeColor2": "#57C785"
+    },
+    "links": [
+      {
+        "id": "github",
+        "link": "https://github.com/3bd-ulrahman",
+        "preview": true
+      },
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/abdulrahman-saad-a26176222",
+        "preview": true
+      }
+    ],
+    "description": {
+      "content": "👨‍💻 Backend Laravel Developer specializing in building scalable, high-performance web applications. Experienced with Laravel, MySQL, Redis, Docker, and Vue.js, with a strong focus on clean architecture, optimization, and real-world business solutions.",
+      "highlights": []
+    }
+  },
+  "Projects": {
+    "projects": [
+      {
+        "title": "CategYou - YouTube Playlist Organizer",
+        "description": "Transform your YouTube experience with nested folders, smart sorting, and intuitive drag-and-drop organization for your Liked Videos playlist.",
+        "tech": [
+          {
+            "name": "React",
+            "color": "text-indigo-400"
+          },
+          {
+            "name": "OAuth",
+            "color": "text-purple-400"
+          },
+          {
+            "name": "Tailwind CSS",
+            "color": "text-pink-400"
+          },
+          {
+            "name": "React Icons",
+            "color": "text-blue-400"
+          },
+          {
+            "name": "IndexedDB",
+            "color": "text-green-400"
+          }
+        ],
+        "imgSrc": "/src/assets/client-dashboard.png",
+        "liveDemo": "https://hasry.tkwin.com.sa/ar"
+      },
+      {
+        "title": "DomifyJS - Lightweight Frontend Framework",
+        "description": "DomifyJS is a lightweight, flexible frontend framework built from scratch in JavaScript to understand modern framework internals.",
+        "tech": [
+          {
+            "name": "JavaScript",
+            "color": "text-yellow-400"
+          }
+        ],
+        "imgSrc": "/src/assets/hasry-admin-dashboard.png"
+      },
+      {
+        "title": "Algorithm Visualizer",
+        "description": "Algorithm Visualizer is a web-based application designed to help users understand and learn algorithms through interactive visualizations.",
+        "tech": [
+          {
+            "name": "HTML",
+            "color": "text-orange-400"
+          },
+          {
+            "name": "CSS",
+            "color": "text-blue-400"
+          },
+          {
+            "name": "JavaScript",
+            "color": "text-yellow-400"
+          }
+        ],
+        "imgSrc": "/src/assets/ios.png",
+        "liveDemo": "https://apps.apple.com/us/app/%D8%AD%D8%B5%D8%B1%D9%8A/id6450507567"
+      }
+    ],
+    "title": "linear-gradient(90deg, #3b82f6, #a855f7, #9333ea)"
+  },
+  "Skills": {
+    "skills": [
+      {
+        "icon": "TbBrandCpp",
+        "name": "C++",
+        "color": "#00599C"
+      },
+      {
+        "icon": "SiJavascript",
+        "name": "JavaScript",
+        "color": "#F7DF1E"
+      },
+      {
+        "icon": "SiHtml5",
+        "name": "HTML5",
+        "color": "#E34F26"
+      },
+      {
+        "icon": "SiCss3",
+        "name": "CSS3",
+        "color": "#1572B6"
+      },
+      {
+        "icon": "SiTailwindcss",
+        "name": "Tailwind",
+        "color": "#06B6D4"
+      },
+      {
+        "icon": "SiBootstrap",
+        "name": "Bootstrap",
+        "color": "#7952B3"
+      },
+      {
+        "icon": "SiGithub",
+        "name": "GitHub",
+        "color": "#FFFFFF"
+      },
+      {
+        "icon": "SiGit",
+        "name": "Git",
+        "color": "#F05032"
+      },
+      {
+        "icon": "SiMysql",
+        "name": "MySQL",
+        "color": "#4479A1"
+      },
+      {
+        "icon": "SiVuedotjs",
+        "name": "Vue.js",
+        "color": "#4FC08D"
+      },
+      {
+        "icon": "SiDocker",
+        "name": "Docker",
+        "color": "#2496ED"
+      },
+      {
+        "icon": "SiPhp",
+        "name": "PHP",
+        "color": "#777BB4"
+      },
+      {
+        "icon": "SiLaravel",
+        "name": "Laravel",
+        "color": "#FF2D20"
+      },
+      {
+        "icon": "SiVite",
+        "name": "Vite",
+        "color": "#646CFF"
+      }
+    ],
+    "title": "linear-gradient(90deg, #3b82f6, #a855f7, #9333ea)"
+  },
+  "Experiences": {
+    "experience": [
+      {
+        "title": "Bachelor's degree | Computer Science",
+        "company": "El Shorouk Academy",
+        "period": "October 2021 - October 2025",
+        "description": "I studied computer and systems engineering, which provided me with a solid foundation in programming, algorithms, data structures, and software engineering. I also developed a strong understanding of computer architecture, operating systems, and computer networks.",
+        "icon": "GiGraduateCap",
+        "left": false
+      },
+      {
+        "title": "AI Trainer",
+        "company": "Scale AI",
+        "period": "June 2023 – May 2024",
+        "description": "Worked on improving a language model for solving Codeforces problems. For each coding problem, I write the solution of the problem, test cases to confirm that my code works fine, a summary of the problem, and an explanation of how my code solves the problem.",
+        "icon": "FaBriefcase",
+        "left": true
+      }
+    ],
+    "title": "linear-gradient(90deg, #3b82f6, #a855f7, #9333ea)"
+  },
+  "Contact": {
+    "contact": {
+      "email": "abdulrahman198276301@gmail.com",
+      "phone": "+201023078188",
+      "location": "Damietta, Egypt"
+    },
+    "title": "linear-gradient(90deg, #3b82f6, #a855f7, #9333ea)"
+  }
+}
