@@ -11,7 +11,7 @@
       "content": "Abdulrahman Saad",
       "gradient": "linear-gradient(90deg, #2A7B9B, #57C785)"
     },
-    "imgUrl": "/src/assets/photo_2025-04-27_17-17-20.jpg",
+    "imgUrl": "assets/photo_2025-04-27_17-17-20.jpg",
     "availability": true,
     "tags": [
       "Software Engineer",
@@ -69,7 +69,7 @@
             "color": "text-green-400"
           }
         ],
-        "imgSrc": "/src/assets/client-dashboard.png",
+        "imgSrc": "assets/client-dashboard.png",
         "liveDemo": "https://hasry.tkwin.com.sa/ar"
       },
       {
@@ -81,7 +81,7 @@
             "color": "text-yellow-400"
           }
         ],
-        "imgSrc": "/src/assets/hasry-admin-dashboard.png"
+        "imgSrc": "assets/hasry-admin-dashboard.png"
       },
       {
         "title": "Algorithm Visualizer",
@@ -100,7 +100,7 @@
             "color": "text-yellow-400"
           }
         ],
-        "imgSrc": "/src/assets/ios.png",
+        "imgSrc": "assets/ios.png",
         "liveDemo": "https://apps.apple.com/us/app/%D8%AD%D8%B5%D8%B1%D9%8A/id6450507567"
       }
     ],
