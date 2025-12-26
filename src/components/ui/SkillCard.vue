@@ -11,7 +11,7 @@ const props = defineProps<{
 }>();
 
 const iconMap: { [key: string]: string } = {
-    TbBrandCpp: 'tb:brand-cpp',
+    TbBrandCpp: 'simple-icons:cplusplus',
     SiPython: 'simple-icons:python',
     SiJavascript: 'simple-icons:javascript',
     SiTypescript: 'simple-icons:typescript',
